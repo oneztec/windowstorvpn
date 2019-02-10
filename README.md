@@ -1,7 +1,7 @@
 # windwostorvpn
 the tor vpn client for windows global vpn via proxifire
 
-#Tor
+# Tor
 
 Tor is a python based module for using tor proxy (an anonymous network) services.
 
@@ -26,5 +26,5 @@ Usage
 Usage within the another python tool
 
     Using proxy module within your code
-#reference
+# reference
     https://github.com/r0oth3x49/Tor
