@@ -19,10 +19,9 @@ class TorServiceSetup(object):
 	def StartService(self):
 		TorProxy = Proxy()
 		print(torBanner)
-		subprocess.Popen(['Proxifier.exe'])
+		p = subprocess.Popen(['Proxifier.exe'])
 		TorProxy.ConfigureTor
-		
-		subprocess.Pclose(['Proxifier.exe'])
+		p.kill()
 
 		
 def main():
