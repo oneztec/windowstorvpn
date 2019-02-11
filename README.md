@@ -11,7 +11,7 @@ Requirements
 
 Tested on
 
-    Windows 7/8/8.1/10.
+    Windows 7
 
 Installation
 
@@ -21,10 +21,7 @@ git clone https://github.com/msroute/windowstorvpn.git
 
 Usage
 
-    Run the tor_services.py file to establish a Tor circuit.
+    Run the tor_services.py
 
-Usage within the another python tool
-
-    Using proxy module within your code
-# reference
+# Reference
 https://github.com/r0oth3x49/Tor
