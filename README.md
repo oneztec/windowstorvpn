@@ -1,4 +1,4 @@
-# windwostorvpn
+# windowstorvpn
 the tor vpn client for windows global vpn via proxifire
 
 # Tor
