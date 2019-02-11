@@ -7,7 +7,7 @@ Tor is a python based module for using tor proxy (an anonymous network) services
 
 Requirements
 
-    Python (2 or 3)
+    Python 2
 
 Tested on
 
