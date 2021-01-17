@@ -17,7 +17,7 @@ Installation
 
 You can download the latest version of Tor by cloning the GitHub repository:
 
-git clone https://github.com/msrouter/windowstorvpn.git
+    git clone https://github.com/greenrouter/windowstorvpn.git
 
 Usage
 
